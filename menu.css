@@ -4,7 +4,7 @@ body header {
 
 body .main {
   height: auto;
-  background-image: url("36223.png");
+  background-image: url("images/background.png");
   background-size: cover;
   background-attachment: fixed;
   padding-top: 131px;
@@ -44,11 +44,6 @@ body .main .row p {
 .item p {
   margin-bottom: 40px;
 }
-
-.minus {
-  margin-top: -180px;
-}
-
 
 .message {
   font-size: 20px;
