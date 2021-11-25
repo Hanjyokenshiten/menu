@@ -55,8 +55,9 @@ body .main .row p {
 
 .message {
   font-size: 20px;
-  margin:4px auto 0 auto !important;
+  margin:4px auto 22px auto !important;
   text-align:center;
+  letter-spacing:6px;
 }
 
 .outline {
