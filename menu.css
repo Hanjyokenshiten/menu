@@ -53,6 +53,10 @@ body .main .row p {
   margin-bottom: 40px;
 }
 
+.delivery_message {
+  text-align: center;
+}
+
 .message {
   font-size: 20px;
   margin:4px auto 22px auto !important;
